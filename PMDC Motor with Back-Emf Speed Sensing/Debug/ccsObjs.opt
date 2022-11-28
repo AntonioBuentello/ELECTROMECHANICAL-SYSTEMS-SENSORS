@@ -1,0 +1,10 @@
+"./adc0.obj"
+"./clock.obj"
+"./freq_time.obj"
+"./gpio.obj"
+"./nvic.obj"
+"./tm4c123ge6pm_startup_ccs.obj"
+"./uart0.obj"
+"./wait.obj"
+"../tm4c123ge6pm.cmd"
+-llibc.a
